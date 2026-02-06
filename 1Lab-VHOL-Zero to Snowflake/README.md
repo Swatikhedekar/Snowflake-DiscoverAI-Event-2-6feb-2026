@@ -1,4 +1,5 @@
 ## Lab 1: VHOL: Zero to Snowflake
+![project lab](assets/Picture1.png)
 ### What we’ll Learn & Explore
 1. How to navigate Snowsight, the Snowflake user interface, and other connection options.
 2. Insights into data ingestion and transformation in Snowflake.
