@@ -9,5 +9,9 @@
 7. Creating and sharing data analysis.
 
 ## Resourses:
-1] www.snowflake.com
+1) https://www.snowflake.com/en/developers/guides/zero-to-snowflake/#0
+2) 
+3) 
+
+
 
