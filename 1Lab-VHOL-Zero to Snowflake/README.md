@@ -1,5 +1,8 @@
-## Lab 1: VHOL: Zero to Snowflake
+# Lab 1: VHOL: Zero to Snowflake
 ![project lab](https://github.com/Swatikhedekar/Snowflake-DiscoverAI-Event-2-6feb-2026/blob/main/assets/Picture1.png)
+
+## Overview
+Welcome to the Zero to Snowflake Quickstart! This guide is a consolidated journey through key areas of the Snowflake AI Data Cloud. You will start with the fundamentals of warehousing and data transformation, build an automated data pipeline, then see how you can experiment with LLMs using the Cortex Playground to compare different models for summarizing text, use AISQL Functions to instantly analyze customer review sentiment with a simple SQL command, and harness Cortex Search for intelligent text discovery, and utilize Cortex Analyst for conversational business intelligence. Finally, you will learn to secure your data with powerful governance controls and enrich your analysis through seamless data collaboration.
 ### What we’ll Learn & Explore
 1. How to navigate Snowsight, the Snowflake user interface, and other connection options.
 2. Insights into data ingestion and transformation in Snowflake.
@@ -8,7 +11,9 @@
 5. Basic data governance and security concepts.
 6. Access data from data sharing and the Snowflake Marketplace.
 7. Creating and sharing data analysis.
-8. 
+8. Analyze customer review sentment with Cortex AISQL
+
+
 ## What You Will Learn
 - Vignette 1: Getting Started with Snowflake: The fundamentals of Snowflake warehouses, caching, cloning, and Time Travel.
 - Vignette 2: Simple Data Pipelines: How to ingest and transform semi-structured data using Dynamic Tables.
